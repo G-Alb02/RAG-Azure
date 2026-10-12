@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>RAG Chat - Azure (FastAPI)</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>RAG Chat - Azure</h1>
+    <div id="chat" class="chat-window"></div>
+
+    <form id="chat-form">
+      <input id="msg" autocomplete="off" placeholder="Scrivi la tua domanda..." />
+      <button type="submit">Invia</button>
+    </form>
+    <div class="footer">
+      <small>Responses limited to context retrieved from Azure Search.</small>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+[
+  {
+    "input": "What percentage of employees are currently using AI at their workplace according to the Microsoft study?",
+    "actual_output": "According to the provided context, 80% of employees say they are currently using AI at their workplace.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.7358150768167218
+  },
+  {
+    "input": "What is RIVA and how does it relate to employee engagement?",
+    "actual_output": "RIVA, or Realized Individual Value of AI, represents the various ways an employee experiences direct benefits from AI use in their daily work, such as completing tasks more efficiently or reducing work-related stress. It is closely related to employee engagement, as engaged employees tend to have higher RIVA scores—averaging 19 percentage points higher—even when accounting for frequent AI use. This suggests that engagement enhances the positive impact of AI on employees' work experiences.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.7871899547746114
+  },
+  {
+    "input": "What are the key differences in change experience between leaders and individual contributors?",
+    "actual_output": "The key differences in change experience between leaders and individual contributors are:\n\n1. **Communication During Change**: 85% of leaders believe their organization communicates consistently during change, compared to only 55% of individual contributors.\n\n2. **Opportunities to Improve Skills**: 86% of leaders feel they have good opportunities to improve their skills during change, while only 64% of individual contributors share this experience.\n\n3. **Inclusion in Decisions**: 83% of leaders feel included in decisions about change that affects their job, whereas only 44% of individual contributors agree.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.7810623892431371
+  },
+  {
+    "input": "What are the five AI transformation profiles identified in the study?",
+    "actual_output": "The five AI transformation profiles identified in the study are:\n\n1. **Multipliers (28%)** - Very Engaged, Very High Change Experience, Very High AI Sentiment.  \n2. **Advocates (44%)** - Engaged, High Change Experience, High AI Sentiment.  \n3. **Persuadables (18%)** - Slightly Engaged, Medium Change Experience, Medium AI Sentiment.  \n4. **AI Skeptics (8%)** - Engaged, High Change Experience, Low AI Sentiment.  \n5. **Change Pessimists (4%)** - Very Disengaged, Low Change Experience, Low AI Sentiment.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 0.2857142857142857,
+    "correctness_score": 0.6929019251966022
+  },
+  {
+    "input": "What are the top concerns employees have about AI integration in the workplace?",
+    "actual_output": "The top concerns employees have about AI integration in the workplace are:  \n1. Security and data privacy.  \n2. Over-reliance on AI for automatic decision-making, particularly for decisions that impact employees, such as hiring.  \n3. Potential job loss or deskilling due to AI taking over tasks traditionally done by humans.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.7961359298095344
+  },
+  {
+    "input": "How do High Performing Organizations (HPOs) differ from typical organizations in their approach to AI?",
+    "actual_output": "High Performing Organizations (HPOs) differ from typical organizations in their approach to AI by connecting the dots from AI vision to AI value more effectively. They also provide substantially more access to organization-sponsored AI tools, with 48% of employees in HPOs reporting that all AI tools they use are provided by their organization, compared to only 26% in typical organizations.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 0.5,
+    "correctness_score": 0.5926134641533194
+  },
+  {
+    "input": "What is the relationship between AI readiness and RIVA?",
+    "actual_output": "The relationship between AI readiness and RIVA is that higher AI readiness drives up to 62% of RIVA, even when controlling for job level and use frequency. This indicates that individuals with higher AI readiness derive more value from the AI tools they use, regardless of how often they use those tools.",
+    "answer_relevancy_score": 0.75,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.6983119608267118
+  },
+  {
+    "input": "What percentage of employees use only organization-provided AI tools?",
+    "actual_output": "Based on the provided context, **30% of employees use only organization-provided AI tools**.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.5100684935200807
+  },
+  {
+    "input": "What are the three pillars that characterize High Performing Organizations?",
+    "actual_output": "The three pillars that characterize High Performing Organizations are engaged employees, productive teams, and resilient business.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.7141020004281715
+  },
+  {
+    "input": "What guidance does the study provide for supporting AI readiness?",
+    "actual_output": "The study provides the following guidance for supporting AI readiness:\n\n1. **Provide examples** of how to apply AI into workflows.\n2. **Build AI skills together** by scheduling meetings to review and share tips.\n3. **Make time to experiment**, as lack of time is a barrier to AI adoption.\n4. **Get feedback** on what people like most to inform ongoing skill development.\n5. **Share success stories** from across the organization where AI has had a positive impact.",
+    "answer_relevancy_score": 1.0,
+    "faithfulness_score": 1.0,
+    "correctness_score": 0.7651354871433915
+  }
+]
